@@ -1,0 +1,9 @@
+D:\Projects\TagGameWinForms\bin\Debug\TagGameWinForms.exe
+D:\Projects\TagGameWinForms\bin\Debug\TagGameWinForms.pdb
+D:\Projects\TagGameWinForms\bin\Debug\TagGameLib.dll
+D:\Projects\TagGameWinForms\bin\Debug\TagGameLib.pdb
+D:\Projects\TagGameWinForms\obj\Debug\TagGameWinForms.csprojAssemblyReference.cache
+D:\Projects\TagGameWinForms\obj\Debug\TagGameWinForms.csproj.CoreCompileInputs.cache
+D:\Projects\TagGameWinForms\obj\Debug\TagGameWinForms.csproj.CopyComplete
+D:\Projects\TagGameWinForms\obj\Debug\TagGameWinForms.exe
+D:\Projects\TagGameWinForms\obj\Debug\TagGameWinForms.pdb

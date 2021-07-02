@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagGameWinForms", "TagGameWinForms.csproj", "{23D8B565-41EC-426D-9294-A2EACDE0830B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TagGameLib", "TagGameLib\TagGameLib.csproj", "{B846DDF8-A4B1-4BE0-9272-D852CB335791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms", "WinForms\WinForms.csproj", "{BE9B97BC-857D-429A-97A5-120F4307ABEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23D8B565-41EC-426D-9294-A2EACDE0830B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D8B565-41EC-426D-9294-A2EACDE0830B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D8B565-41EC-426D-9294-A2EACDE0830B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D8B565-41EC-426D-9294-A2EACDE0830B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B846DDF8-A4B1-4BE0-9272-D852CB335791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B846DDF8-A4B1-4BE0-9272-D852CB335791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B846DDF8-A4B1-4BE0-9272-D852CB335791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B846DDF8-A4B1-4BE0-9272-D852CB335791}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9B97BC-857D-429A-97A5-120F4307ABEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9B97BC-857D-429A-97A5-120F4307ABEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9B97BC-857D-429A-97A5-120F4307ABEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9B97BC-857D-429A-97A5-120F4307ABEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
