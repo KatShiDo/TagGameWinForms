@@ -11,3 +11,16 @@ D:\Projects\TagGameWinForms\WinForms\obj\Debug\WinForms.Form1.resources
 D:\Projects\TagGameWinForms\WinForms\bin\Debug\TagGameLib.dll
 D:\Projects\TagGameWinForms\WinForms\bin\Debug\TagGameLib.pdb
 D:\Projects\TagGameWinForms\WinForms\obj\Debug\WinForms.csproj.CopyComplete
+D:\Projects\github\TagGameWinForms\WinForms\bin\Debug\WinForms.exe.config
+D:\Projects\github\TagGameWinForms\WinForms\bin\Debug\WinForms.exe
+D:\Projects\github\TagGameWinForms\WinForms\bin\Debug\WinForms.pdb
+D:\Projects\github\TagGameWinForms\WinForms\bin\Debug\TagGameLib.dll
+D:\Projects\github\TagGameWinForms\WinForms\bin\Debug\TagGameLib.pdb
+D:\Projects\github\TagGameWinForms\WinForms\obj\Debug\WinForms.csprojAssemblyReference.cache
+D:\Projects\github\TagGameWinForms\WinForms\obj\Debug\WinForms.Form1.resources
+D:\Projects\github\TagGameWinForms\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+D:\Projects\github\TagGameWinForms\WinForms\obj\Debug\WinForms.csproj.GenerateResource.cache
+D:\Projects\github\TagGameWinForms\WinForms\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+D:\Projects\github\TagGameWinForms\WinForms\obj\Debug\WinForms.csproj.CopyComplete
+D:\Projects\github\TagGameWinForms\WinForms\obj\Debug\WinForms.exe
+D:\Projects\github\TagGameWinForms\WinForms\obj\Debug\WinForms.pdb

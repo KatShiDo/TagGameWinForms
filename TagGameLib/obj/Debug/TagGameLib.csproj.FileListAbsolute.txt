@@ -4,3 +4,9 @@ D:\Projects\TagGameWinForms\TagGameLib\obj\Debug\TagGameLib.csprojAssemblyRefere
 D:\Projects\TagGameWinForms\TagGameLib\obj\Debug\TagGameLib.csproj.CoreCompileInputs.cache
 D:\Projects\TagGameWinForms\TagGameLib\obj\Debug\TagGameLib.dll
 D:\Projects\TagGameWinForms\TagGameLib\obj\Debug\TagGameLib.pdb
+D:\Projects\github\TagGameWinForms\TagGameLib\bin\Debug\TagGameLib.dll
+D:\Projects\github\TagGameWinForms\TagGameLib\bin\Debug\TagGameLib.pdb
+D:\Projects\github\TagGameWinForms\TagGameLib\obj\Debug\TagGameLib.csprojAssemblyReference.cache
+D:\Projects\github\TagGameWinForms\TagGameLib\obj\Debug\TagGameLib.csproj.CoreCompileInputs.cache
+D:\Projects\github\TagGameWinForms\TagGameLib\obj\Debug\TagGameLib.dll
+D:\Projects\github\TagGameWinForms\TagGameLib\obj\Debug\TagGameLib.pdb

@@ -8,7 +8,7 @@ namespace TagGameWinForms
 {
     internal static class Program
     {
-        private static Dictionary<ConsoleKey, MoveDirection> keys = new Dictionary<ConsoleKey, MoveDirection>
+        private static readonly Dictionary<ConsoleKey, MoveDirection> Keys = new Dictionary<ConsoleKey, MoveDirection>
         {
             [ConsoleKey.LeftArrow] = MoveDirection.Left,
             [ConsoleKey.RightArrow] = MoveDirection.Right,
@@ -36,7 +36,7 @@ namespace TagGameWinForms
             do
             {
                 var key = Console.ReadKey(true).Key;
-                _model.KeyDown(keys[key]);
+                _model.KeyDown(Keys[key]);
             } while (!_model.Win());
             Console.WriteLine("You win!!!");
         }
